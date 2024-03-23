@@ -9,7 +9,7 @@ import EventTracker from '../Calender/EventTracker';
 
 const Dashboard = () => {
   return (
-    <div className=" container-fluid ">
+    <div className=" container-fluid mt-3">
       <NavBar />
       <div>
         <Counter />
